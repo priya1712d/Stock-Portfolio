@@ -5,7 +5,7 @@
     "private": true
   },
   "engines": {
-    "node": "12.x"
+    "node": "^13.7.0"
   },
   "description": "Course Reference: Build a Stock Market Web App With Node and Javascript By John Elder",
   "dependencies": {
