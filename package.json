@@ -4,6 +4,10 @@
   "repository": {
     "private": true
   },
+
+    "engines": {
+        "node": "12.x"
+    },
   "description": "Course Reference: Build a Stock Market Web App With Node and Javascript By John Elder",
   "dependencies": {
     "body-parser": "^1.19.0",
